@@ -17,3 +17,4 @@
 - Interactive rebase is powerful for cleaning up work before sharing
 
 # Conflict Practice Notes
+- Git stash is a lifesaver for context switching
